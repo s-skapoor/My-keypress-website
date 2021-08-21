@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+}
+#myCanvas{
+    border-style:ridge;
+}
+#sect1, #sect2{
+    background-color: aqua;
+}
